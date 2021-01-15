@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328280257194",
+    "project_id": "riseapp-49be5",
+    "storage_bucket": "riseapp-49be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328280257194:android:af576f11d28149728a96d3",
+        "android_client_info": {
+          "package_name": "com.example.rise_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328280257194-ajrepecij2lhj18qlbq7ao4gtgr69oag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlu-JZajhxV5QoXnOccSKzGhhtNOXQprs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328280257194-ajrepecij2lhj18qlbq7ao4gtgr69oag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
